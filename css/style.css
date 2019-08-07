@@ -80,11 +80,15 @@ button
     color: #fff;
     padding: 0 20px;
     height: 62px;
-    width: 120px;
+    width: 150px;
     border-radius: 31px;
     font-family: 'Ubuntu', sans-serif;
     font-size: 16px;
     line-height: 1.2;
     border: none;
 
+}
+.btn-icon
+{
+    padding: 5px;
 }
