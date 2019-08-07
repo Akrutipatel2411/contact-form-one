@@ -52,7 +52,6 @@ input[type="text"]
     font-size: 18px;
     border-radius: 31px;
     background-color: white;
-    color: #8f8fa1;
     line-height: 1.2;
     
 }
@@ -64,10 +63,13 @@ textarea
     font-family: 'Ubuntu', sans-serif;
     font-size: 18px;
     border-radius: 31px;
-    background-color: white;
-    color: #8f8fa1;
+    background-color: white; 
     line-height: 1.2;
     border: none;
+}
+::placeholder
+{
+    color: #8f8fa1;
 }
 .btn-data
 {
